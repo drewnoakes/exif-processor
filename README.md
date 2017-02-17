@@ -1,7 +1,7 @@
 # exif-processor
 
 A lightweight wrapper around the exif-processing functionality of 
-[metadata-extractor](http://code.google.com/p/metadata-extractor/).
+[metadata-extractor](https://github.com/drewnoakes/metadata-extractor).
 
 ## Installation
 
